@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Kalkidan. I am a technology learner with a strong interest in artificial intelligence and software engineering. I am focused on developing my technical skills and deepening my understanding of modern technologies. I am committed to continuous improvement through regular practice and learning
+
+This repository was created to help me practice creating files and making commits on GitHub as part of my GitHub learning journey.
